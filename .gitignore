@@ -2,3 +2,4 @@
 .terraform/providers/registry.terraform.io/hashicorp/google/6.6.0/windows_amd64/LICENSE.txt
 .terraform/providers/registry.terraform.io/hashicorp/google/6.6.0/windows_amd64/terraform-provider-google_v6.6.0_x5.exe
 .terraform.lock.hcl
+playpen-79b253-6e09107f38e4.json
